@@ -1,0 +1,6 @@
+F:\Programming\C#\MatrixOperationsDLL\bin\Debug\MatrixOperationsDLL.dll
+F:\Programming\C#\MatrixOperationsDLL\bin\Debug\MatrixOperationsDLL.pdb
+F:\Programming\C#\MatrixOperationsDLL\obj\Debug\MatrixOperationsDLL.csproj.AssemblyReference.cache
+F:\Programming\C#\MatrixOperationsDLL\obj\Debug\MatrixOperationsDLL.csproj.CoreCompileInputs.cache
+F:\Programming\C#\MatrixOperationsDLL\obj\Debug\MatrixOperationsDLL.dll
+F:\Programming\C#\MatrixOperationsDLL\obj\Debug\MatrixOperationsDLL.pdb
